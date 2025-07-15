@@ -1,4 +1,4 @@
-package Challenge6;
+package Challenges;
 
 import javax.sql.DataSource;
 
